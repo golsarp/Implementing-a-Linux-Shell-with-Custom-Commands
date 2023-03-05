@@ -1,6 +1,6 @@
 
-// SARP GOL ID: 72368
-//ASU TUTKU GOKCEK ID:71766
+// SARP GOL 
+
 
 #include <unistd.h>
 #include <sys/wait.h>
